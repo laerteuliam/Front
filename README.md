@@ -2,8 +2,7 @@
 - Node js v8.9.4
 
 # Instalação pacotes globais
-npm install -g @angular/cli
-npm install -g typescript
+npm install -g @angular/cli typescript
 
 Obs.: versões utilizadas
 @angular/cli@1.7.2
